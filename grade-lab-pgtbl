@@ -76,4 +76,3 @@ def test_time():
     check_time()
 
 run_tests()
-printf("x=%d y=%d", 3);
